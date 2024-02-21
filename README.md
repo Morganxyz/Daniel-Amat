@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Java backend developer from Catalunya</h3>
 
+<h4 align="center">A proactive Java Back-End Developer in Spring trained at It Academy from Barcelona Activa <br><br>I'm a passionate learner who's always willing to learn and work across technologies and coding languages  <br><br>I focus on developing robust, scalable and efficient solutions, ensuring a well-structured and maintainable code, following best practices and clean code  <br><br</h4>
+
 - 🌱 I’m currently seeking a job opportunity
 
 <h3 align="left">Connect with me:</h3>
