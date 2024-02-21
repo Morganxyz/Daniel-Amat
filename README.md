@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Java backend developer from Catalunya</h3>
 
-- 🌱 I’m currently working on a It Academy project
+- 🌱 I’m currently seeking a job opportunity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
